@@ -1,0 +1,20 @@
+body {
+	background-color: black;
+}
+#header, #main {
+	color: white;
+	text-align: center;
+	font-family: consolas;
+}
+#header {
+	font-size: 30px;
+}
+#main {
+	font-size: 15px;
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+}
