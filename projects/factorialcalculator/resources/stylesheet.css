@@ -1,16 +1,13 @@
 body {
 	background-color: black;
 }
-#header, #main {
+h2, h3, h4, p, a {
 	color: white;
 	text-align: center;
 	font-family: consolas;
 }
-#header {
-	font-size: 30px;
-}
-#main {
-	text-align: default;
+p {
+	color: green;
 }
 a {
 	color: pink;
